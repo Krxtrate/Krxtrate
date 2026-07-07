@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kritarth Sharan</h1>
+<h1 align="center">Hi, I'm Kritarth Sharan</h1>
 <h3 align="center">Computer Science Undergraduate | AI & Backend Developer | Building Intelligent Systems</h3>
 
 <p align="center">
