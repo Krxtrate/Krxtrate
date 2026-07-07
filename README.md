@@ -1,12 +1,6 @@
 <h1 align="center">Hi, I'm Kritarth Sharan</h1>
 <h3 align="center">Computer Science Undergraduate | AI & Backend Developer | Building Intelligent Systems</h3>
 
-<p align="center">
-  <a href="https://github.com/Krxtrate">
-    <img src="https://komarev.com/ghpvc/?username=Krxtrate&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
