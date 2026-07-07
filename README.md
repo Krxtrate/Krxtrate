@@ -145,16 +145,6 @@ Git • GitHub • VS Code • MySQL • Postman • Playwright • Power BI
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Krxtrate&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🎯 Current Goals
 
 - 🚀 Build production-ready AI systems
