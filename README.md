@@ -149,19 +149,20 @@ Git • GitHub • VS Code • MySQL • Postman • Playwright • Power BI
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Summary
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Krxtrate&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krxtrate&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krxtrate&theme=tokyonight" />
 </p>
 
----
-
-# 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Krxtrate&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Krxtrate&theme=tokyonight" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krxtrate&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Krxtrate&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Krxtrate&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 ---
