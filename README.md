@@ -148,7 +148,7 @@ Git • GitHub • VS Code • MySQL • Postman • Playwright • Power BI
 ## 📈 Contribution Graph
 
 [![Kritarth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Krxtrate&theme=tokyo-night)](https://github.com/Krxtrate)
----
+
 ---
 # 🎯 Current Goals
 
