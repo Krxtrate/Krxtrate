@@ -89,6 +89,7 @@ Computer Science Undergraduate • AI & Backend Developer • Building Intellige
 > RESTful backend for a movie ticket booking platform with authentication, show management, seat booking, and relational database integration.
 
 **Tech:** Node.js • Express.js • MySQL
+
 ---
 
 # 🛠️ Tech Stack
