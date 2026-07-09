@@ -12,16 +12,7 @@ Computer Science Undergraduate • AI & Backend Developer • Building Intellige
 
 💡 Passionate about **Artificial Intelligence, Backend Development, System Design, and Real-Time AI Applications.**
 
-🛠️ Currently building a **fully local Voice AI Assistant** using:
-
-- Faster-Whisper
-- Silero VAD
-- Ollama (Qwen3)
-- Piper TTS
-- FastAPI
-- React
-- WebSockets
-- AudioWorklets
+🛠️ Currently building production-oriented AI applications including local voice assistants, Retrieval-Augmented Generation (RAG) systems, multimodal AI, and intelligent automation tools.
 
 🌱 Currently learning and exploring:
 
@@ -51,63 +42,53 @@ Computer Science Undergraduate • AI & Backend Developer • Building Intellige
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🎤 Local Voice AI Assistant
+### 🎙️ EchoCore
+**Production-Oriented Local AI Voice Assistant**
+> A fully local, real-time AI voice assistant featuring streaming speech recognition, streaming LLM responses, intelligent barge-in, streaming TTS, and a modular asynchronous architecture.
 
-A fully local conversational AI assistant capable of real-time speech recognition, LLM inference, and speech synthesis.
-
-**Tech Stack**
-
-- React
-- FastAPI
-- Faster-Whisper
-- Silero VAD
-- Ollama (Qwen3)
-- Piper TTS
-- WebSockets
+**Tech:** Python • FastAPI • React • Faster-Whisper • Silero VAD • Ollama • Piper • WebSockets
 
 ---
 
-## 🤖 RAG Chatbot
+### 🧠 AdCounty AI Assistant
+**Enterprise Retrieval-Augmented Generation (RAG) System**
+> Built during my internship at AdCounty Media, featuring semantic search, context-aware retrieval, modular architecture, conversation memory, and enterprise knowledge retrieval.
 
-A Retrieval-Augmented Generation chatbot capable of answering questions from custom knowledge bases.
-
-**Features**
-
-- ChromaDB Vector Database
-- Local LLM Integration
-- Context Memory
-- PDF Processing
-- Semantic Search
+**Tech:** Python • FastAPI • ChromaDB • Ollama • Playwright • PostgreSQL
 
 ---
 
-## 🗺️ AI Treasure Hunt
+### 👁️ AI Multimodal ChatBot
+**Vision + Language AI Assistant**
+> A multimodal conversational assistant capable of understanding text, images, and uploaded documents using local and open-source AI models.
 
-An AI-powered treasure hunt game that leverages pathfinding algorithms to intelligently navigate grid-based environments and identify optimal routes through interactive visualizations.
-
-**Algorithms**
-
-- A*
-- BFS
-- DFS
-- Dijkstra
+**Tech:** Python • FastAPI • React • Hugging Face • Ollama
 
 ---
 
-## 🎬 FilmZone
+### 🤖 Niyantra AI
+**AI Workflow & Automation Platform**
+> An intelligent AI system focused on orchestrating workflows, automating tasks, and providing context-aware assistance through modular AI pipelines.
 
-A movie ticket booking backend built using Node.js, Express.js, and MySQL.
+**Tech:** Python • FastAPI • LLMs • AsyncIO
 
-**Features**
+---
 
-- Authentication
-- Movie Management
-- Ticket Booking
-- REST APIs
-- Relational Database Design
+### 🧭 AI Treasure Hunt
+**Interactive Pathfinding Algorithm Visualizer**
+> A visualization platform demonstrating classic search algorithms such as A*, BFS, and DFS with real-time pathfinding and interactive grid exploration.
 
+**Tech:** Python • Pygame
+
+---
+
+### 🎬 FilmZone
+**Movie Ticket Booking Backend**
+> RESTful backend for a movie ticket booking platform with authentication, show management, seat booking, and relational database integration.
+
+**Tech:** Node.js • Express.js • MySQL
 ---
 
 # 🛠️ Tech Stack
