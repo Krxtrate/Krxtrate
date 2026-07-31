@@ -27,7 +27,7 @@ Computer Science Undergraduate • AI & Backend Developer • Building Intellige
 
 # 💼 Experience
 
-### AI Engineering Intern | AdCounty Media
+### Software Developer Intern | AdCounty Media
 
 - Developed Retrieval-Augmented Generation (RAG) applications
 - Built intelligent chatbot systems using local LLMs
