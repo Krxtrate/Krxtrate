@@ -161,7 +161,6 @@ Git • GitHub • VS Code • MySQL • Postman • Playwright • Power BI
 
 # 📫 Connect With Me
 
-- GitHub: **https://github.com/Krxtrate**
 - LinkedIn: **https://linkedin.com/in/kritarthsharan2511**
 
 ---
